@@ -1,0 +1,8 @@
+.body1 {
+  background-image: url("/images/bg-ele.png");
+  background-size: cover;
+  color: black;
+  padding: 0px;
+  margin: 0px;
+  /* background-color: bisque; */
+}
